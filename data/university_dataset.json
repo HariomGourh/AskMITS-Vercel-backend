@@ -17,7 +17,8 @@
     "responses": [
        "Hello!",
        "Good to see you again!",
-       "Hi there, how can I help?"
+       "Hi there, how can I help?",
+       "Hello! Welcome to AskMITS. How can I assist you today?"
     ],
     "extension":  {
         "function": "",
@@ -52,7 +53,8 @@
        "Sad to see you go :(",
        "Talk to you later",
        "Goodbye!",
-       "Come back soon"
+       "Come back soon",
+       "Goodbye! Feel free to reach out anytime."
     ],
     "extension":  {
         "function": "",
@@ -88,7 +90,7 @@
        "who designed you"
     ],
     "responses": [
-       "College students"
+       "Kshitij Kumar Soni and Hariom Gourh"
     ],
     "extension":  {
         "function": "",
@@ -196,7 +198,7 @@
        "call"
     ],
     "responses": [
-       "You can contact at: NUMBER"
+       "For administration contact: Registrar office, for hostel related queries: Chief Warden (9425338833), discipline department contact is 9425122675. Full contact info on official website Contact Us section."
     ],
     "extension":  {
         "function": "",
@@ -243,7 +245,7 @@
        "Civil engineering"
     ],
     "responses": [
-       "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+       "MITS offers B.Tech programs in 17 branches including Computer Science & Engineering, Electrical Engineering, Information Technology, Electronics and Communication, Civil, Mechanical, Chemical, Mining, Artificial Intelligence & Data Science among others. M.Tech specializations cover advanced topics aligned with these branches."
     ],
     "extension":  {
         "function": "",
@@ -286,7 +288,7 @@
        "fees for non-Ac room for boys"
     ],
     "responses": [
-       "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+       "MITS fee structure varies by course and category, detailed info is available on the fee structure page. Scholarships are offered through MP Government, Central schemes."
     ],
     "extension":  {
         "function": "",
@@ -320,7 +322,7 @@
        "location"
     ],
     "responses": [
-       "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+       "MITS is situated about 3 km from Gwalior bus stand and railway station with good availability of local public transport, autos, and taxis for easy access."
     ],
     "extension":  {
         "function": "",
@@ -362,7 +364,7 @@
        "distance between hostel and college"
     ],
     "responses": [
-       "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+       "Separate hostels for boys and girls equipped with furnished rooms, dining halls, common rooms, and security measures are available with affordable fees and mess services."
     ],
     "extension":  {
         "function": "",
@@ -393,7 +395,7 @@
        "what about events"
     ],
     "responses": [
-       "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+       "MITS hosts active chapters of IEEE,IEI, ISTE,and GFG along with numerous student-run clubs and societies revolving around technical, cultural, and sports activities."
     ],
     "extension":  {
         "function": "",
@@ -426,7 +428,7 @@
        "documents needed"
     ],
     "responses": [
-       "To know more about document required visit <a target=\"_blank\" href=\"ADD LINK OF ADMISSION GUIDANCE DOCUMENT FROM YOUR UNIVERSITY WEBSITE\"> here</a>"
+       "Required documents include mark sheets, entrance scorecards, ID proof, passport size photos, and relevant category certificates as specified at the time of admission."
     ],
     "extension":  {
         "function": "",
@@ -453,7 +455,7 @@
        "floors"
     ],
     "responses": [
-       "My College has total 2 floors "
+       "MITS sprawling campus of 44.6 acres houses advanced academic buildings, hostels, sports complexes, gymnasium, and recreational areas."
     ],
     "extension":  {
         "function": "",
@@ -514,7 +516,7 @@
        "how many libraries"
     ],
     "responses": [
-       "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+       "There is one huge and spacious library.timings are 10am to 6pm and The central library houses about 100,000 books with technical, reference, and research materials."
     ],
     "extension":  {
         "function": "",
@@ -624,7 +626,7 @@
        "companies"
     ],
     "responses": [
-       "To know about placement visit <a target=\"_blank\" href=\"PLACEMENT INFORMATION LINK FROM YOUR UNIVERSITY WEBSITE IF THEY HAVE\">here</a>"
+       "Placements at MITS feature top recruiters from IT, core engineering, and management sectors. Highest packages have reached up to ₹1 Crore. Average packages hover around ₹6.2 LPA with consistent campus recruitments."
     ],
     "extension":  {
         "function": "",
@@ -648,7 +650,7 @@
        "name of it hod"
     ],
     "responses": [
-       "All engineering departments have only one hod XYZ who available on (Place name)"
+       "Leadership includes the Principal and HODs whose contact details are accessible on the official MITS administration and department web pages."
     ],
     "extension":  {
         "function": "",
@@ -672,7 +674,7 @@
        "name of computer hod"
     ],
     "responses": [
-       "All engineering departments have only one hod XYZ who available on (PLACE NAME)"
+       "The name of Computer Science Department HOD is Dr. Manish Dixit (Head & Prof. of CS department."
     ],
     "extension":  {
         "function": "",
