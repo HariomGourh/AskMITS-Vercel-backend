@@ -342,8 +342,8 @@
        "fees for non-Ac room for boys"
     ],
     "responses": [
-      "💰 The **tuition fee** at MITS varies depending on the course and category. For B.Tech, the annual fee is around **₹85,000 – ₹1,10,000**, depending on specialization. Hostel fees (including mess) range from **₹25,000 to ₹45,000 per year**, based on room type (AC / Non-AC).For the detailed and official fee structure, visit: [MITS Fee Structure PDF](https://mitsgwalior.in/Admissions/Fees.aspx).",
-       "MITS fee structure varies by course and category, detailed info is available on the fee structure page. Scholarships are offered through MP Government, Central schemes."
+      "💰 The **tuition fee** at MITS varies depending on the course and category. For B.Tech, the annual fee is around **₹85,000 – ₹1,10,000**, depending on specialization. Hostel fees (including mess) range from **₹25,000 to ₹45,000 per year**, based on room type (AC / Non-AC).For the detailed and official fee structure, visit: [MITS Fee Structure PDF](https://mitsgwalior.in/Admissions/Fees.aspx)."
+      
     ],
     "extension":  {
         "function": "",
@@ -377,7 +377,8 @@
        "location"
     ],
     "responses": [
-       "MITS is situated about 3 km from Gwalior bus stand and railway station with good availability of local public transport, autos, and taxis for easy access."
+      "📍 **Madhav Institute of Technology & Science (MITS)** is located at *Gola Ka Mandir, Gwalior – 474005, Madhya Pradesh, India.*\n\n🚉 The campus is about **3 km from Gwalior Railway Station** and **Bus Stand**, and easily accessible by local transport like auto-rickshaws, buses, and cabs.\n\n🗺️ [View on Google Maps](https://maps.app.goo.gl/bqQp6o1cgGB2sXHf6)"
+  
     ],
     "extension":  {
         "function": "",
@@ -419,7 +420,8 @@
        "distance between hostel and college"
     ],
     "responses": [
-       "Separate hostels for boys and girls equipped with furnished rooms, dining halls, common rooms, and security measures are available with affordable fees and mess services."
+        "🏠 **MITS provides separate hostels for boys and girls** with all essential amenities — furnished rooms, 24×7 security, purified drinking water, Wi-Fi, mess facility, and recreation rooms.\n\n💰 *Fee Structure:* The hostel fee varies for AC and Non-AC rooms. For exact details, contact:\n📞 *Dr. Vijay Bhuria (Chief Warden):* 7999464307\n\n📍 *Hostels are located within the MITS campus for convenient access.*"
+  
     ],
     "extension":  {
         "function": "",
@@ -571,7 +573,8 @@
        "how many libraries"
     ],
     "responses": [
-       "There is one huge and spacious library.timings are 10am to 6pm and The central library houses about 100,000 books with technical, reference, and research materials."
+           "📚 **Yes, MITS has a large Central Library** located at the heart of the campus.\n\n🕙 **Timings:** 10:00 AM – 6:00 PM (Monday to Saturday)\n\n📖 The library houses over **1,00,000 books**, journals, research papers, and digital resources across engineering, science, and management disciplines.\n\n💻 A dedicated **Digital Library Section** provides access to online journals, e-books, and databases like IEEE, Springer, and ScienceDirect.\n\n👩‍🏫 It offers a peaceful study environment for students and staff with separate reading areas and computer terminals."
+  
     ],
     "extension":  {
         "function": "",
@@ -681,7 +684,8 @@
        "companies"
     ],
     "responses": [
-       "Placements at MITS feature top recruiters from IT, core engineering, and management sectors. Highest packages have reached up to ₹1 Crore. Average packages hover around ₹6.2 LPA with consistent campus recruitments."
+      "🎯 At MITS Gwalior, the Training & Placement Cell works with leading companies from IT, core engineering and management domains.\n\n📊 **Highlights (Batch 2024):**\n- Highest on-campus package: ~ ₹ 25.56 LPA. :contentReference[oaicite:1]{index=1}\n- Average on-campus package: ~ ₹ 5.31 LPA. :contentReference[oaicite:2]{index=2}\n- Top recruiters include names like Google, Amazon, Accenture, TCS, Infosys, Wipro, HCL and others. :contentReference[oaicite:3]{index=3}\n\nIf you tell me your branch, I can check latest placement trends for that too."
+  
     ],
     "extension":  {
         "function": "",
@@ -705,7 +709,8 @@
        "name of it hod"
     ],
     "responses": [
-       "Leadership includes the Principal and HODs whose contact details are accessible on the official MITS administration and department web pages."
+        "👨‍🏫 The Head of the Information Technology Department at MITS Gwalior is **Dr. Akhilesh Tiwari**, Professor & Head of IT.\n\n📞 **Phone:** 9407204907  \n📧 **Email:** atiwari@mitsgwalior.in  \n🏛️ For more details, visit the official IT Department page on [mitsgwalior.in](https://mitsgwalior.in)."
+  
     ],
     "extension":  {
         "function": "",
@@ -729,7 +734,8 @@
        "name of computer hod"
     ],
     "responses": [
-       "The name of Computer Science Department HOD is Dr. Manish Dixit (Head & Prof. of CS department."
+      "💻 The Head of the **Computer Science & Engineering Department** at MITS Gwalior is **Dr. Manish Dixit**, Professor & Head of CSE Department.\n\n📞 **Phone:** +91 9425117866  \n📧 **Email:** dixitmits@mitsgwalior.in  \n🏛️ For official details, visit the CSE Department page on [mitsgwalior.in](https://mitsgwalior.in)."
+ 
     ],
     "extension":  {
         "function": "",
