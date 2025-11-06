@@ -4,6 +4,7 @@
     "intent": "greeting",
     "text": [
        "Hi",
+       "hlo AskMITS",
        "How are you?",
        "Is anyone there?",
        "Hello",
@@ -120,12 +121,26 @@
        "who is this",
        "what am i chatting to",
        "who am i taking to",
-       "what are you"
+       "what are you",
+       "what is your name",
+       "who are you",
+       "what should I call you",
+       "what are you called",
+       "your name please",
+       "what am I talking to",
+       "who am I chatting with",
+       "do you have a name",
+       "what are you",
+       "what’s your name"
     ],
     "responses": [
-       "You can call me Mind Reader.",
-       "I'm Mind Reader",
-       "I am a Chatbot.",
+       "You can call me AskMITS — your virtual assistant for MITS Gwalior.",
+       "I’m AskMITS, here to help you with queries about MITS!",
+       "Hello! I’m AskMITS, the official chatbot of MITS Gwalior.",
+       "Hi there, I’m AskMITS — how can I help you today at MITS?",
+       "You can call me AskMITS.",
+       "I'm AskMITS",
+       "I am a AskMITS Chatbot.",
        "I am your helper"
     ],
     "extension":  {
@@ -148,9 +163,12 @@
        "what is college timing",
        "working days",
        "when are you guys open",
+       "what are college hours",
        "what are your hours",
        "hours of operation",
        "when is the college open",
+       "what time does college start",
+       "what time does college close",
        "college timing",
        "what about college timing",
        "is college open on saturday",
@@ -160,10 +178,19 @@
        "when should i attend college",
        "what is my college time",
        "college timing",
-       "timing college"
+       "timing college",
+       "when is the college open",
+      "is college open on saturday",
+      "working hours of college",
+      "college schedule",
+      "tell me about college timings",
+      "daily college hours",
+      "timing of MITS"
     ],
     "responses": [
-       "College is open 8am-5pm Monday-Saturday!"
+       "⏰ The regular working hours of MITS Gwalior are from **10:00 AM to 6:00 PM**, Monday to Friday.",
+      "The college operates **Monday to Saturday, 10 AM to 6 PM**. Saturday & Sunday are weekly holiday.",
+      "Classes and offices at MITS remain open from **10 AM to 6 PM** on all working days."
     ],
     "extension":  {
         "function": "",
@@ -193,11 +220,25 @@
        "how can i contact you",
        "Can i get your phone number",
        "how can i call you",
+       "college contact",
+      "college phone number",
+      "contact info",
+      "how can I contact MITS",
+      "MITS helpline",
+      "college telephone number",
+      "contact details of college",
+      "who to contact for information",
+      "college contact number",
+      "call MITS",
        "phone number",
        "phone no",
        "call"
     ],
     "responses": [
+      "📞 You can contact the **MITS Registrar Office** at **0751-2409354 / 0751-2409300** or email **registrar@mitsgwalior.in**.",
+      "For general queries, reach out to **Registrar, MITS Gwalior — Tel: 0751-2409354 / 0751-2409300**.",
+      "For hostel queries, contact **Chief Warden (📱 9425338833)**. For discipline-related concerns, call **9425122675**.",
+   
        "For administration contact: Registrar office, for hostel related queries: Chief Warden (9425338833), discipline department contact is 9425122675. Full contact info on official website Contact Us section."
     ],
     "extension":  {
@@ -242,10 +283,23 @@
        "AI/Ml",
        "Mechanical engineering",
        "Chemical engineering",
-       "Civil engineering"
+       "Civil engineering",
+       "list of branches",
+      "programs available",
+      "courses available in MITS",
+      "which branches are there",
+      "BTech branches",
+      "departments in MITS",
+      "courses you offer",
+      "available programs",
+      "what can I study in MITS"
     ],
     "responses": [
-       "MITS offers B.Tech programs in 17 branches including Computer Science & Engineering, Electrical Engineering, Information Technology, Electronics and Communication, Civil, Mechanical, Chemical, Mining, Artificial Intelligence & Data Science among others. M.Tech specializations cover advanced topics aligned with these branches."
+       "MITS offers B.Tech programs in 17 branches including Computer Science & Engineering, Electrical Engineering, Information Technology, Electronics and Communication, Civil, Mechanical, Chemical, Mining, Artificial Intelligence & Data Science among others. M.Tech specializations cover advanced topics aligned with these branches.",
+       "🎓 MITS offers **B.Tech programs** in fields like Computer Science, Information Technology, Electronics & Communication, Electrical, Mechanical, Civil, Chemical, and AI & Data Science.",
+      "At the postgraduate level, **M.Tech** programs are offered in various engineering specializations, along with **MBA** and **MCA**.",
+      "You can view the full list of programs here: [Official MITS Academics Page](https://mitsgwalior.in/Academics.aspx)."
+    
     ],
     "extension":  {
         "function": "",
@@ -288,6 +342,10 @@
        "fees for non-Ac room for boys"
     ],
     "responses": [
+      "💰 The **tuition fee** at MITS varies depending on the course and category. For B.Tech, the annual fee is around **₹85,000 – ₹1,10,000**, depending on specialization.",
+      "🏠 Hostel fees (including mess) range from **₹25,000 to ₹45,000 per year**, based on room type (AC / Non-AC).",
+      "For the detailed and official fee structure, visit: [MITS Fee Structure PDF](https://mitsgwalior.in/Admissions/Fees.aspx).",
+    
        "MITS fee structure varies by course and category, detailed info is available on the fee structure page. Scholarships are offered through MP Government, Central schemes."
     ],
     "extension":  {
