@@ -728,10 +728,11 @@
   {
     "intent": "computerhod",
     "text": [
-       "Who is computer HOD",
-       "Where is computer HOD",
-       "computer hod",
-       "name of computer hod"
+       "Who is computer science HOD",
+       "Where is computer science HOD",
+       "computer science hod",
+       "name of computer science hod",
+       "hod of CSE"
     ],
     "responses": [
       "💻 The Head of the **Computer Science & Engineering Department** at MITS Gwalior is **Dr. Manish Dixit**, Professor & Head of CSE Department.\n\n📞 **Phone:** +91 9425117866  \n📧 **Email:** dixitmits@mitsgwalior.in  \n🏛️ For official details, visit the CSE Department page on [mitsgwalior.in](https://mitsgwalior.in)."
@@ -943,7 +944,7 @@
        "seats"
     ],
     "responses": [
-       "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+       "For IT, Computer and extc 158 per branch and seat may be differ for different department."
     ],
     "extension":  {
         "function": "",
@@ -972,7 +973,7 @@
        "do we have to wear uniform"
     ],
     "responses": [
-       "ENTER YOUR OWN UNIVERSITY UNIFORM CIRCULER"
+       "ENTER YOUR OWN Casual wear except fancy dresses."
     ],
     "extension":  {
         "function": "",
