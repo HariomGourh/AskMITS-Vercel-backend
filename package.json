@@ -1,0 +1,21 @@
+{
+  "name": "askmits-scraper-api",
+  "version": "1.0.0",
+  "description": "Production-ready backend system for AskMITS chatbot using Express, Axios, Cheerio, and Node-cache.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-cache": "^5.1.2",
+    "puppeteer": "^22.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
